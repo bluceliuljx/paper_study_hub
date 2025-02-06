@@ -5,6 +5,8 @@
 
 ```
 
+504 实验室组会论文汇总
+https://github.com/yxliang/PaperReading
 
 
 
