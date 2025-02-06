@@ -1,0 +1,4 @@
+
+https://github.com/Krasjet-Yu/YOLO-FaceV2/blob/d9c8f24d5dba392ef9d6b350a7c50b850051b32b/utils/loss.py#L16
+
+https://arxiv.org/pdf/2208.02019
