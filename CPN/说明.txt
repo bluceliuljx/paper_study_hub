@@ -1,0 +1,6 @@
+
+celldetection
+https://github.com/FZJ-INM1-BDA/celldetection.git
+
+https://github.com/FZJ-INM1-BDA/celldetection/blob/main/celldetection/models/cpn.py
+
